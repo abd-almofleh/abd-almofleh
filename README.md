@@ -73,7 +73,7 @@ I am a Software Engineer with experience in building high scale RESTful APIs and
 
 ### Badges
 
-<div style="display: flex; flex-direction : column; align-items: center">
+<div  align="center" style="display: flex; flex-direction : column; align-items: center">
 
 <a href="https://www.linkedin.com/in/abdullah-almofleh"><img src="https://github-readme-stats-tawny-xi-39.vercel.app/api?username=abd-almofleh&show_icons=true&hide=stars&show=reviews&theme=radical" alt="abd-almofleh's GitHub stats" /></a>
 
