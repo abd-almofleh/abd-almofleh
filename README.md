@@ -74,12 +74,13 @@ I am a Software Engineer with experience in building high scale RESTful APIs and
 ### Badges
 
 <div style="display: flex; flex-direction : column; align-items: center">
+
 <a href="https://www.linkedin.com/in/abdullah-almofleh"><img src="https://github-readme-stats-tawny-xi-39.vercel.app/api?username=abd-almofleh&show_icons=true&hide=stars&show=reviews&theme=radical" alt="abd-almofleh's GitHub stats" /></a>
 
 <a href="https://www.linkedin.com/in/abdullah-almofleh"><img src="https://github-readme-streak-stats-eta-six.vercel.app/?user=abd-almofleh&theme=radical&exclude_days=Sun,Sat" /></a>
 
-<a href="https://www.linkedin.com/in/abdullah-almofleh" align="center"><img src="https://github-readme-stats-tawny-xi-39.vercel.app/api/top-langs/?username=abd-almofleh&langs_count=5&custom_title=Top%20%Languages&include_all_commits=true&theme=radical&layout=compact" alt="Top Languages" /></a>
-
 <a href="https://stackoverflow.com/users/8822094/abdullah-almofleh" align="center"><img src="https://stack-over-flow-stats.vercel.app/api?user=8822094&theme=radical" alt="Top Languages" /></a>
+
+<a href="https://www.linkedin.com/in/abdullah-almofleh" align="center"><img src="https://github-readme-stats-tawny-xi-39.vercel.app/api/top-langs/?username=abd-almofleh&langs_count=5&custom_title=Top%20%Languages&include_all_commits=true&theme=radical&layout=compact" alt="Top Languages" /></a>
 
 </div>
