@@ -80,7 +80,7 @@ I am a Software Engineer with experience in building high scale RESTful APIs and
 
 <a href="http://www.github.com/abd-almofleh"><img src="https://github-readme-stats-tawny-xi-39.vercel.app/api?username=abd-almofleh&show_icons=true&hide=stars&show=reviews&theme=radical" alt="abd-almofleh's GitHub stats" /></a>
 
-<a href="http://www.github.com/abd-almofleh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abd-almofleh&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/abd-almofleh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abd-almofleh&theme=radical&exclude_days=Sun,Sat" /></a>
 
 <a href="https://github.com/abd-almofleh" align="left"><img src="https://github-readme-stats-tawny-xi-39.vercel.app/api/top-langs/?username=abd-almofleh&langs_count=5&custom_title=Top%20%Languages&include_all_commits=true&theme=radical&layout=compact" alt="Top Languages" /></a>
 
