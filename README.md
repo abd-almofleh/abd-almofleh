@@ -72,6 +72,12 @@ I am a Software Engineer with experience in building high scale RESTful APIs and
 </p>
 
 ### Badges
+<p align="center">
+  <a height="50%" width="auto"  href="https://www.linkedin.com/in/abdullah-almofleh">  <img height="50%" width="auto" src ="[https://github-readme-stats.vercel.app/api?username=aveek-saha&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000](https://github-readme-streak-stats-eta-six.vercel.app/?user=abd-almofleh&theme=radical&exclude_days=Sun,Sat)"> </a>
+  <a height="50%" width="auto"  href="https://www.linkedin.com/in/abdullah-almofleh"> <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI](https://github-readme-stats-tawny-xi-39.vercel.app/api/top-langs/?username=abd-almofleh&langs_count=5&custom_title=Top%20%Languages&include_all_commits=true&theme=radical&layout=compact)"> </a>
+  
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
 
 <div  align="center" style="display: flex; flex-direction : column; align-items: center">
 
